@@ -1,0 +1,156 @@
+-----------------
+|h             p|
+|               |
+|               |
+|               |
+|q             f|
+-----------------
+Money: 50 Sestertius
+Menhirs: 0
+Food: 0
+Turn: 0
+
+buy/sell/next/exit
+-----------------
+|h             p|
+|               |
+|               |
+|               |
+|q             f|
+-----------------
+Money: 50 Sestertius
+Menhirs: 0
+Food: 0
+Turn: 1
+
+buy/sell/next/exit
+What do you want to buy?
+Where do you want to place it?
+X-Coordinate:
+Y-Coordinate:
+Successfully bought
+-----------------
+|h             p|
+|               |
+|   q           |
+|               |
+|q             f|
+-----------------
+Money: 45 Sestertius
+Menhirs: 0
+Food: 0
+Turn: 2
+
+buy/sell/next/exit
+What do you want to buy?
+Where do you want to place it?
+X-Coordinate:
+Y-Coordinate:
+Successfully bought
+-----------------
+|h             p|
+|               |
+|   Q           |
+|               |
+|q             f|
+-----------------
+Money: 40 Sestertius
+Menhirs: 1
+Food: 0
+Turn: 3
+
+buy/sell/next/exit
+What do you want to buy?
+Where do you want to place it?
+X-Coordinate:
+Y-Coordinate:
+Successfully bought
+What do you want to buy?
+Where do you want to place it?
+X-Coordinate:
+Y-Coordinate:
+Successfully bought
+-----------------
+|h             p|
+|               |
+|   Qpf         |
+|               |
+|q             f|
+-----------------
+Money: 30 Sestertius
+Menhirs: 2
+Food: 0
+Turn: 4
+
+buy/sell/next/exit
+What do you want to buy?
+Where do you want to place it?
+X-Coordinate:
+Y-Coordinate:
+Failed to buy
+-----------------
+|h             p|
+|               |
+|   Qpf         |
+|               |
+|q             f|
+-----------------
+Money: 30 Sestertius
+Menhirs: 3
+Food: 0
+Turn: 5
+
+buy/sell/next/exit
+-----------------
+|h             p|
+|               |
+|   Qpf         |
+|               |
+|q             f|
+-----------------
+Money: 30 Sestertius
+Menhirs: 4
+Food: 0
+Turn: 6
+
+buy/sell/next/exit
+-----------------
+|h             p|
+|               |
+|   Qpf         |
+|               |
+|q             f|
+-----------------
+Money: 30 Sestertius
+Menhirs: 5
+Food: 0
+Turn: 7
+
+buy/sell/next/exit
+-----------------
+|h             p|
+|               |
+|   Qpf         |
+|               |
+|q             f|
+-----------------
+Money: 30 Sestertius
+Menhirs: 6
+Food: 0
+Turn: 8
+
+buy/sell/next/exit
+-----------------
+|h             p|
+|               |
+|   Qpf         |
+|               |
+|q             f|
+-----------------
+Money: 30 Sestertius
+Menhirs: 7
+Food: 0
+Turn: 9
+
+buy/sell/next/exit
+GAME OVER
